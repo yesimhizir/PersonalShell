@@ -1,1 +1,1 @@
-# Comp304-Project1-Tuna-Yesim
+personalized Linux shell for Operating Systems course.
